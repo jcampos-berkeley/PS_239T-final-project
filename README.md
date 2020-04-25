@@ -1,5 +1,7 @@
 Author: Juan C. Campos
+
 Date: May 11, 2020
+
 Project: Geospatial, time-series, and statistical analyses
 
 ## Short Description
