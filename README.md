@@ -1,5 +1,7 @@
 Author: Juan C. Campos
 
+Institution: University of California, Berkeley
+
 Date: May 11, 2020
 
 Project: Geospatial, time-series, and statistical analyses
