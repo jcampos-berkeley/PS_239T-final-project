@@ -12,22 +12,37 @@ Additionally, I use R to develop a time-series analysis at the state-level and f
 
 Finally, for visualization purposes, I employ a generic bivariate regression to estimate the effects of oil thefts on DTO violence.  The results I find are significant, although this can change later on when I conduct a more comprehensive multivariate analysis with a more accurate specification.
 
-### Dependencies
+## Dependencies
 
+1. R, version 3.6.1 (2019-07-05) -- "Action of the Toes"
+2. QGIS, version 3.12.1-Bucuresti
+3. LaTeX, TeXShop, version 4.44
 
-## Files
+## Files (Data, Code, Results)
 
 ### Data (Raw)
 
-
+1. The oil thefts data is available here: http://gobiernofacil.com/proyectos/robo-de-combustible-en-puebla 
+2. The homicides data is available here: https://justiceinmexico.org/data/ 
 
 ### Data (Generated)
 
-
+1.	pue_thefts_homicides.csv
+2.	pue_time.csv
+3.	pue_shp_thefts (file containing the shapefiles for each year from 2011 to 2016)
+4.	puebla_by_year (file containing DTO and homicide data for each year from 2011 to 2016)
+  - y_2011.csv
+  - y_2012.csv
+  - y_2013.csv
+  - y_2014.csv
+  - y_2015.csv
+  - y_2016.csv
 
 ### Code
 
-
+1. pue_geospatial.R (script containing code for cleaning geospatial data)
+2. pue_time_series.R (script containing code for the time-series analyses)
+3. pue_stat_analysis.R (script containing code for statistical analysis)
 
 ### Reults
 
