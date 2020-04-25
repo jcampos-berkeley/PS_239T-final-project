@@ -49,3 +49,4 @@ Finally, for visualization purposes, I employ a generic bivariate regression to 
 
 ## More Information
 
+For more information, contact Juan Campos at juan_campos@berkeley.edu
