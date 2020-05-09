@@ -39,6 +39,8 @@ Finally, for visualization purposes, I employ a generic bivariate regression to 
   - y_2014.csv
   - y_2015.csv
   - y_2016.csv
+  
+ 5. Also included in this file are additional files that contain the shapefiles used for my geospatial analyses.
 
 ### Code
 
@@ -48,6 +50,7 @@ Finally, for visualization purposes, I employ a generic bivariate regression to 
 
 ### Reults
 
+This file contains .png images of my results.
 
 ## More Information
 
